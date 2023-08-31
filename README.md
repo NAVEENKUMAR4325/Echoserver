@@ -20,7 +20,7 @@ Implementation using Python code
 Testing the server and client 
 
 ## PROGRAM:
-server Side:
+Server Side:
 ```
 import socket
 
